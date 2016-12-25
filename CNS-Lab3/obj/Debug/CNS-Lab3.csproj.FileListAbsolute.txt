@@ -1,0 +1,6 @@
+F:\C# - Programs\CNS-Lab3\CNS-Lab3\bin\Debug\CNS-Lab3.exe.config
+F:\C# - Programs\CNS-Lab3\CNS-Lab3\bin\Debug\CNS-Lab3.exe
+F:\C# - Programs\CNS-Lab3\CNS-Lab3\bin\Debug\CNS-Lab3.pdb
+F:\C# - Programs\CNS-Lab3\CNS-Lab3\obj\Debug\CNS-Lab3.csprojResolveAssemblyReference.cache
+F:\C# - Programs\CNS-Lab3\CNS-Lab3\obj\Debug\CNS-Lab3.exe
+F:\C# - Programs\CNS-Lab3\CNS-Lab3\obj\Debug\CNS-Lab3.pdb
